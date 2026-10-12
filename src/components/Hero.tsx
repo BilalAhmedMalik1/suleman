@@ -111,7 +111,7 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.55 }}
           className="flex items-center justify-center gap-4"
         >
-          <SocialIcon href={socialLinks.github} label="GitHub">
+          <SocialIcon href="https://github.com/sulyeman" label="GitHub">
             <Github size={20} />
           </SocialIcon>
           <SocialIcon href={socialLinks.linkedin} label="LinkedIn">
